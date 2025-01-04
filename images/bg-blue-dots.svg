@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1440px" height="851px" viewBox="0 0 1440 851" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 55.2 (78181) - https://sketchapp.com -->
+    <title>F4310D6A-A268-4F51-9164-F042722555FD</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <linearGradient x1="70.703561%" y1="36.5886123%" x2="33.8271658%" y2="45.1237014%" id="linearGradient-1">
+            <stop stop-color="#305ED1" offset="0%"></stop>
+            <stop stop-color="#182DA5" offset="100%"></stop>
+        </linearGradient>
+        <polygon id="path-2" points="944 763 2384 763 2384 1624 944 1624"></polygon>
+        <pattern id="pattern-3" width="10" height="10" x="934" y="753" patternUnits="userSpaceOnUse">
+            <use xlink:href="#image-4"></use>
+        </pattern>
+        <image id="image-4" width="10" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAABGdBTUEAALGN5fIAKQAAAB1JREFUGBljeP7601YQZiAAmKDy/wmoG5WmUggAAG2pB/Ro4JdUAAAAAElFTkSuQmCC"></image>
+    </defs>
+    <g id="CTO-Professional-Services" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="cto-web-product-services-hifi-A" fill-rule="nonzero">
+            <g id="bg-blue-dots-2" transform="translate(-944.000000, -773.000000)">
+                <g id="bg-blue-dots">
+                    <use fill="url(#linearGradient-1)" xlink:href="#path-2"></use>
+                    <use fill-opacity="0.2" fill="url(#pattern-3)" xlink:href="#path-2"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
